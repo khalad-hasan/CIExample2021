@@ -1,1 +1,1 @@
-# CIExample2021
+# InClassCIN
